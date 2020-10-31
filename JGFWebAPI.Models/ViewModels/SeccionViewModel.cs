@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace JGFWebAPI.Models.ViewModels
+{
+    public class SeccionViewModel
+    {
+        public Guid Id { get; set; }
+        public string Nombre { get; set; }
+        public int Capacidad { get; set; }
+        public int Orden { get; set; }
+    }
+}

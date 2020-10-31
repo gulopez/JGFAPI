@@ -1,0 +1,2 @@
+Database Version used
+Microsoft SQL Server 2017 (RTM-CU22) (KB4577467) - 14.0.3356.20 (X64)   Aug 20 2020 22:33:27   Copyright (C) 2017 Microsoft Corporation  Developer Edition (64-bit) on Windows Server 2016 Datacenter 10.0 <X64> (Build 14393: ) (Hypervisor) 
